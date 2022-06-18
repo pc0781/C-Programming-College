@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-char ch[10][130] = {"Cardiff Express", "Belfast Express", "Derby Express", "Chester Express", "Newport Express", "Truro Express"};
+char ch[10][130] = {"Sahara Express", "Belfast Express", "Clinton Express", "Trivium Express", "Lawman Express", "Turbo Express"};
 char name[32][100] = {'\0'};
 char number[32][2] = {'\0'};
 int num1[32] = {0};
